@@ -90,15 +90,6 @@ These features significantly influence customer churn behavior.
 
 ---
 
-## 📂 Project Structure
-
-├── Telco_customer_churnn.ipynb
-├── README.md
-└── requirements.txt
-
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates end-to-end implementation of:
